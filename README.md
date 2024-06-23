@@ -5,3 +5,8 @@
 В конфигурационном файле пользователь задает адрес получателя(лей), 
 тему (возможно на русском языке) и имена файлов-аттачментов для отсылки в виде вложения.
 На сервера mail, yandex, google письма с вложениями должны доходить и быть читабельными.
+
+пример работы программы:
+
+![a47be2d7-2c25-44d7-a45e-91f90e1ef703](https://github.com/ALEXEY-PEREVOSHCHIKOV/SMTP_client/assets/114176011/84fafc12-55b0-4467-9af4-79ffe7ac9dc8)
+![9a1c8fdf-7e9e-43a6-8f29-140fbc2913ef](https://github.com/ALEXEY-PEREVOSHCHIKOV/SMTP_client/assets/114176011/ac57aaa0-3afb-4e68-9bb1-745b50f90347)
